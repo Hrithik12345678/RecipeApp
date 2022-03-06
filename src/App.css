@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  
+  background-image: url('https://wallpaperforu.com/wp-content/uploads/2021/04/Wallpaper-Food-Still-Life-Wooden-Surface-2048x1342px-1023.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+.Search_form{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 20vh;
+}
+
+.Search_input {
+  width:50%;
+  height: 30px;
+  border: none;
+  padding: 10px;
+  font-size: 20px;
+   
+}
+
+.Search_btn{
+  padding: 15px;
+  border: none;
+  margin: 5px;
+  border-radius: 20px;
+  cursor: pointer;
+  background-color: #E2DEA9;
+  font-weight: 600;
+}
+
+
+.box{
+  display: flex;
+  justify-content: center;
+  
+  flex-wrap: wrap;
+  
+}
+
+
+
+
+
+
+
